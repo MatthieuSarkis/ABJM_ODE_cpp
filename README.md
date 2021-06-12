@@ -1,4 +1,4 @@
-# ABJM_ODE_cpp
+# Generic-Massive-Deformation-of-ABJM-matrix-model
 
 In this project we numerically solve for the eigenvalues spectrum of the
 random matrix model obtained after perfoming supersymmetric localization 
